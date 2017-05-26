@@ -1,8 +1,11 @@
 # WebQuickStart
 Boilerplate for a simple web project structure - quickly test ideas and make stuff on the fly.
 
-First grab the repo with 
-```git clone https://github.com/Grandclosing/WebQuickStart.git```
+First make a new directory and grab the repo with 
+```
+mkdir MyProject && cd MyProject
+git clone https://github.com/Grandclosing/WebQuickStart.git .
+```
 
 Then run 
 ```npm run save```
